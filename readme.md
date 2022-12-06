@@ -4,3 +4,4 @@ It took a matter of seconds to create, but I figured I really ought to start usi
 I fancied this a dandy way to start setting that up so.. here we are
 
 This takes text input and spams you with the name kunal for every character entered.
+Non letter characters remain the same, so it looks a little sentence like stil
